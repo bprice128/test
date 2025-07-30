@@ -12,8 +12,8 @@
 
 [[main]]
   name = "brady"
-#  pageRef = "posts"
-#  weight = 10
+  pageRef = "brady"
+  weight = 10
 
 #[[main]]
 #  name = "Parent"
