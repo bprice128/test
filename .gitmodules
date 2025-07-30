@@ -1,0 +1,9 @@
+[submodule "public"]
+
+    path = public
+    url = https://github.com/bprice128/test.github.io.git
+    fetch = +refs/heads/*:refs/remotes/origin/*
+    active = true
+    branch = main
+    update = merge
+    
